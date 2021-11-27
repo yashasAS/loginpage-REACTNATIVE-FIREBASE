@@ -2,11 +2,17 @@
 INSTALL THESE PACKAGES BEFORE STARTING WITH THE PROJECT
 
 yarn add react-native-screens
+
 yarn add firebase
+
 yarn add @react-native-community/masked-view
+
 yarn add react-native-gesture-handler
+
 yarn add redux
+
 yarn add react-redux
+
 yarn add redux-thunk
 
 
